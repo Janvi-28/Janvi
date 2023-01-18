@@ -1,2 +1,3 @@
 # Janvi
-Janvi repo
+Janvi repo for git  commands demonstration
+
